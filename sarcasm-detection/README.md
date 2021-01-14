@@ -21,4 +21,5 @@ The main code file is `sarcasm_main.py`, the working dataset is `sarcasmdata.xls
 1. The model performance reaches **82.1% on accuracy** (precision 82.09%, recall 86.18%, f1-score 84.09%)
 2. Sentiment carries relevant information which can facilitate sarcasm detection model; however, it should be involved not as a single feature, but as a combination of multiple sentiment-related features
 
-The full project description is available: `research-project-full-description.pdf`
+
+*The full project description is available:* `research-project-full-description.pdf`
