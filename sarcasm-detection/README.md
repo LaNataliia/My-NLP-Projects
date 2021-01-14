@@ -22,4 +22,4 @@ The main code file is `sarcasm_main.py`, the working dataset is `sarcasmdata.xls
 2. Sentiment carries relevant information which can facilitate sarcasm detection model; however, it should be involved not as a single feature, but as a combination of multiple sentiment-related features
 
 
-*The full project description is available:* `research-project-full-description.pdf`
+**The full project description is available:** `research-project-full-description.pdf`
