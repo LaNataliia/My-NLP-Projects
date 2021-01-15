@@ -15,8 +15,9 @@ from nltk.corpus import wordnet
 ###############     HYPONYMY CHAINS     ###############
 
 
-
-synset = wordnet.synset('study.n.03') # pass any word for exploration
+print(wordnet.synsets("study")) # check any word for available synsets
+print()
+synset = wordnet.synset('study.n.05') # pass any word for exploration
 print(synset.hypernym_paths()) # see all hypernym chains available for the synset
 print()
 
