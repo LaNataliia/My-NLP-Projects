@@ -1,4 +1,4 @@
-`wordnet_main.py` consists of 2 parts: Hyponymy Chains and WordNet Taxonomic Relations with word2vec
+`wordnet_main.py` consists of 2 parts: **Hyponymy Chains** and **WordNet Taxonomic Relations with word2vec**
 
 ## Hyponymy Chains
 
@@ -23,6 +23,6 @@ study ( a room used for reading and writing and studying )
 **Embedded representations of words** (word2vec) and **cosine as a similarity metric** are used to test the following hypotheses:
 1. (a) on average, a word is more similar to its synonyms than to its hypernyms;
    (b) on average, a word is more similar to its hypernyms than to its hyponyms.
-2. On average, a word is more similar to the definition of its most frequent sense (i.e., first synset), than to definitions of its less frequent senses (implemented with sentence embeddings)
+2. On average, a word is more similar to the definition of its most frequent sense (i.e., first synset), than to definitions of its less frequent senses (implemented with sentence embeddings).
 
 **Results:** both hypotheses are confirmed.
