@@ -6,7 +6,7 @@ This project is designed to collect the lyrics of an artist and generate a song 
 The code in `get_lyrics.py` gets lyrics of 100 songs of a chosen artist by scraping them from `www.lyrics.com`.
 Run the file from the Command Line (Terminal) passing 2 arguments:
 - the link to the chosen artist on `www.lyrics.com`,
-- the name of the `.txt` file which will be created.
+- the name of the `.txt` file which will be created to save the lyrics.
 
 For example, to get the lyrics of **Queen**:
 `..text-generation>python get_lyrics.py https://www.lyrics.com/artist/Queen/5205 queen_lyrics.txt`
