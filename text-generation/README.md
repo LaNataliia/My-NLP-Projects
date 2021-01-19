@@ -23,7 +23,7 @@ For example:
   
   
 **Example of the generated text starting with "We"**:  
-*We 'll take more - an appetite  
+>*We 'll take more - an appetite  
 The old fashioned word goes on people people , I 've loved the world is on  
 I want to me higher high , we will , we do is about the terror of magic in my face , yeah , yeah  
 The old time and me out  
