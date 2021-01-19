@@ -22,7 +22,7 @@ For example:
 `..text-generation>python song_writer.py queen_lyrics.txt We`
   
   
-**Example of the generated text**:  
+**Example of the generated text starting with "We"**:  
 *We 'll take more - an appetite  
 The old fashioned word goes on people people , I 've loved the world is on  
 I want to me higher high , we will , we do is about the terror of magic in my face , yeah , yeah  
