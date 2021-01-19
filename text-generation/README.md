@@ -46,3 +46,4 @@ Keep yourself he
 You do ba beh beh  
 The old man , give you do is ourselves under pressure we will rock you , I have to the terror of my heart ca n't fool I 'm gon na nah*  
 
+Note: the generated text is not grammatically/ semantically meaningful because the algorithm relies solely on bigrams. For a better quality, further language processing required.
