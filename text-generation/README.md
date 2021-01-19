@@ -1,4 +1,4 @@
-This project is designed to collect the lyrics of an artist and generate a song immitating the artist's style. This is implemented on the basis of the most frequent bi-grams of words in the lyrics.
+This project is designed to collect the lyrics of an artist and generate a song immitating the artist's style. This is implemented on the basis of the frequency distribution of the words bi-grams in the lyrics.
 
 
 ## Part 1: Getting Lyrics
